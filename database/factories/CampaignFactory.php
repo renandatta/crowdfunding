@@ -19,7 +19,7 @@ $factory->define(Campaign::class, function (Faker $faker) {
     $image_id = mt_rand(111111, 999999);
     return [
         'campaign_type_id' => rand(1, $campaignTypeCount),
-        'user_id' => rand(1, $userCount),
+        'user_id' => rand(2, $userCount),
         'title' => $faker->sentence(rand(5, 9)),
         'description' => $faker->paragraph(rand(2, 3)),
         'province' => 'JAWA TIMUR',

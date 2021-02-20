@@ -128,7 +128,7 @@
         </div>
         <div class="footer-copyright">
             <div class="container">
-                <p class="copyright">2020 Developed by Code Epic Indonesia.</p>
+                <p class="copyright">2020 Developed by Renandatta.</p>
                 <a href="#" class="back-top">Back to top<span class="ion-android-arrow-up"></span></a>
             </div>
         </div>
